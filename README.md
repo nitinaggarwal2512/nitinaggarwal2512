@@ -31,3 +31,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinaggarwal2512&show_icons=true&locale=en" alt="nitinaggarwal2512" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinaggarwal2512&" alt="nitinaggarwal2512" /></p>
+
+## Snake eating my contribution graph
+![snake gif](https://github.com/nitinaggarwal2512/nitinaggarwal2512/blob/output/github-contribution-grid-snake.gif)
+
+
+
